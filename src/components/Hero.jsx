@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import { Download, Mail, Github, Linkedin } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
+import profilePic from '../assets/profile.png'
 
 const Hero = () => {
   const [currentTextIndex, setCurrentTextIndex] = useState(0);
@@ -357,7 +358,7 @@ const Hero = () => {
                     <div className="relative">
                       <div className="w-12 h-12 sm:w-12 sm:h-12 rounded-full overflow-hidden bg-gradient-to-br from-yellow-400 to-orange-500 shadow-lg">
                         <img
-                          src="/profile.png"
+                           src={profilePic} 
                           alt="Rohit Kumar Singh"
                           className="w-10 h-10 sm:w-10 sm:h-10 object-cover object-center hover:scale-105 transition-transform duration-300 mx-auto mt-1"
                           onError={(e) => {
