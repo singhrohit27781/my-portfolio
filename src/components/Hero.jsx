@@ -63,7 +63,7 @@ const Hero = () => {
 
   const socialLinks = [
     { icon: Github, url: 'https://github.com/singhrohit27781', label: 'GitHub' },
-    { icon: Linkedin, url: 'https://www.linkedin.com/in/rohit-kumar-singh-83a699379/', label: 'LinkedIn' },
+    { icon: Linkedin, url: 'www.linkedin.com/in/rohit-kumar-singh-83a699379', label: 'LinkedIn' },
     { icon: Mail, url: 'mailto:singhrohit27781@gmail.com', label: 'Email' }
   ];
 

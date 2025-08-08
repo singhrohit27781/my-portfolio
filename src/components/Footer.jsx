@@ -12,7 +12,7 @@ const Footer = () => {
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      url: 'https://www.linkedin.com/in/rohit-kumar-singh-83a699379/',
+      url: 'www.linkedin.com/in/rohit-kumar-singh-83a699379',
       color: 'hover:text-blue-600'
     },
     {

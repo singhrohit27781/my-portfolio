@@ -44,7 +44,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/rohit-kumar-singh-83a699379/',
+      href: 'www.linkedin.com/in/rohit-kumar-singh-83a699379',
       color: 'hover:text-blue-600'
     },
     {
