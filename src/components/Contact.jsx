@@ -17,20 +17,20 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com'
+      value: 'singhrohit27781@gmail.com',
+      href: 'mailto:singhrohit27781@gmail.com'
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
-      href: 'tel:+15551234567'
+      value: '+91 6289719271',
+      href: 'tel:+916289719271'
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'San Francisco, CA',
-      href: 'https://maps.google.com/?q=San+Francisco,CA'
+      value: 'kolkata, WB',
+      href: 'https://maps.google.com/Kolkata,+West+Bengal'
     }
   ];
 
