@@ -30,7 +30,7 @@ const Contact = () => {
       icon: MapPin,
       label: 'Location',
       value: 'kolkata, WB',
-      href: 'https://maps.google.com/Kolkata,+West+Bengal'
+      href: 'https://www.google.com/maps/place/Kolkata,+West+Bengal/@22.5354273,88.3473527,12z/data=!3m1!4b1!4m6!3m5!1s0x39f882db4908f667:0x43e330e68f6c2cbc!8m2!3d22.5743545!4d88.3628734!16zL20vMGN2dzk?entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D'
     }
   ];
 
